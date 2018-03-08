@@ -1,0 +1,27 @@
+body{
+  background-color:black;
+  text-align:center;
+  text-align: center;
+  font-family: "Verdana", sans-serif;
+  color: white;
+}
+#excur {
+  color:aquamarine;
+  font-size:16px;
+
+}
+
+h1{
+  font-family: verdana;
+  font-weight:300;
+  font-size:42px;
+}
+.rem{
+  font-family:verdana;
+  font-size:21px;
+  color:gray;
+}
+.footer{
+  text-align:right;
+  color:gray;
+}
